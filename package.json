@@ -1,0 +1,11 @@
+{
+  "name": "com.hcg.extensions",
+  "version": "1.0.0",
+  "displayName": "Extensions",
+  "description": "Extension Classes",
+  "unity": "2019.1",
+  "dependencies": {
+ },
+ "keywords": [
+  ]
+}
