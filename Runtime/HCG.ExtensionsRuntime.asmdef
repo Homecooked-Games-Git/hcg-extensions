@@ -1,5 +1,5 @@
 {
-    "name": "ExtensionsRuntime",
+    "name": "HCG.ExtensionsRuntime",
     "rootNamespace": "HCG.Extensions",
     "references": [],
     "includePlatforms": [],

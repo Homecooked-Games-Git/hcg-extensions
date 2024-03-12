@@ -1,11 +1,14 @@
 {
   "name": "com.hcg.extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Extensions",
   "description": "Extension Classes",
   "unity": "2019.1",
   "dependencies": {
  },
+  "author": {
+    "name" : "Homecooked Games"
+  },
  "keywords": [
   ]
 }
