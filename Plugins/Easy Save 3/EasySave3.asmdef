@@ -1,8 +1,8 @@
 {
-    "name": "HCG.ExtensionsRuntime",
-    "rootNamespace": "HCG.Extensions",
+    "name": "EasySave3",
+    "rootNamespace": "",
     "references": [
-        "EasySave3"
+        "Unity.VisualScripting.Core"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
